@@ -1,0 +1,1536 @@
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is   7
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 143
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 151
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 159
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 167
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 175
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 183
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 191
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 199
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 207
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 215
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 223
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 231
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 239
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 247
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 255
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is   7
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  15
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  23
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  31
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  39
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  47
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  55
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  63
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  71
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  79
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  87
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is  95
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 103
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 111
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 119
+########## UPDATING PHASE 1 END ###########
+
+########## UPDATING PHASE 1 START ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 127
+########## UPDATING PHASE 1 END ###########
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 01 and add is 135
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 143
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 151
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 159
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 167
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 175
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 183
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 191
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 199
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 207
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 215
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 223
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 231
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 239
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 247
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 255
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is   7
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  15
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  23
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  31
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  39
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  47
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  55
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  63
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  71
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  79
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  87
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is  95
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 103
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 111
+###################################
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 119
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 2 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 127
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000010 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000014 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000018 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000001c branch is 1 and offset is 00000007
+Prediction is right for address 0000001c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000020 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000024 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000028 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000002c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 10 and add is 135
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000030 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000034 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000038 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000003c branch is 1 and offset is 0000000f
+Prediction is right for address 0000003c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000040 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000044 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000048 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000004c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 143
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000050 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000054 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000058 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000005c branch is 1 and offset is 00000017
+Prediction is right for address 0000005c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000060 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000064 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000068 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000006c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 151
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000070 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000074 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000078 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000007c branch is 1 and offset is 0000001f
+Prediction is right for address 0000007c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000080 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000084 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000088 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000008c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 159
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000090 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000094 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000098 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000009c branch is 1 and offset is 00000027
+Prediction is right for address 0000009c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000a0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000a4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000a8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000ac branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 167
+###################################
+
+############## CHECK PHASE START ###########
+For address 000000b0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000b4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000b8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000bc branch is 1 and offset is 0000002f
+Prediction is right for address 000000bc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000c0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000c4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000c8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000cc branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 175
+###################################
+
+############## CHECK PHASE START ###########
+For address 000000d0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000d4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000d8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000dc branch is 1 and offset is 00000037
+Prediction is right for address 000000dc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000e0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000e4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000e8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000ec branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 183
+###################################
+
+############## CHECK PHASE START ###########
+For address 000000f0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000f4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000f8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000000fc branch is 1 and offset is 0000003f
+Prediction is right for address 000000fc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000100 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000104 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000108 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000010c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 191
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000110 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000114 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000118 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000011c branch is 1 and offset is 00000047
+Prediction is right for address 0000011c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000120 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000124 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000128 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000012c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 199
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000130 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000134 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000138 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000013c branch is 1 and offset is 0000004f
+Prediction is right for address 0000013c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000140 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000144 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000148 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000014c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 207
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000150 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000154 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000158 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000015c branch is 1 and offset is 00000057
+Prediction is right for address 0000015c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000160 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000164 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000168 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000016c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 215
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000170 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000174 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000178 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000017c branch is 1 and offset is 0000005f
+Prediction is right for address 0000017c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000180 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000184 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000188 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000018c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 223
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000190 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000194 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000198 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000019c branch is 1 and offset is 00000067
+Prediction is right for address 0000019c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001a0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001a4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001a8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001ac branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 231
+###################################
+
+############## CHECK PHASE START ###########
+For address 000001b0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001b4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001b8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001bc branch is 1 and offset is 0000006f
+Prediction is right for address 000001bc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001c0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001c4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001c8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001cc branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 239
+###################################
+
+############## CHECK PHASE START ###########
+For address 000001d0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001d4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001d8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001dc branch is 1 and offset is 00000077
+Prediction is right for address 000001dc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001e0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001e4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001e8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001ec branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 247
+###################################
+
+############## CHECK PHASE START ###########
+For address 000001f0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001f4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001f8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000001fc branch is 1 and offset is 0000007f
+Prediction is right for address 000001fc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000200 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000204 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000208 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000020c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 255
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000210 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000214 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000218 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000021c branch is 1 and offset is 00000087
+Prediction is right for address 0000021c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000220 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000224 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000228 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000022c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is   7
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000230 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000234 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000238 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000023c branch is 1 and offset is 0000008f
+Prediction is right for address 0000023c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000240 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000244 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000248 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000024c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  15
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000250 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000254 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000258 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000025c branch is 1 and offset is 00000097
+Prediction is right for address 0000025c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000260 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000264 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000268 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000026c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  23
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000270 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000274 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000278 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000027c branch is 1 and offset is 0000009f
+Prediction is right for address 0000027c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000280 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000284 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000288 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000028c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  31
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000290 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000294 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000298 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000029c branch is 1 and offset is 000000a7
+Prediction is right for address 0000029c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002a0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002a4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002a8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002ac branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  39
+###################################
+
+############## CHECK PHASE START ###########
+For address 000002b0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002b4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002b8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002bc branch is 1 and offset is 000000af
+Prediction is right for address 000002bc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002c0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002c4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002c8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002cc branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  47
+###################################
+
+############## CHECK PHASE START ###########
+For address 000002d0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002d4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002d8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002dc branch is 1 and offset is 000000b7
+Prediction is right for address 000002dc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002e0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002e4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002e8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002ec branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  55
+###################################
+
+############## CHECK PHASE START ###########
+For address 000002f0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002f4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002f8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000002fc branch is 1 and offset is 000000bf
+Prediction is right for address 000002fc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000300 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000304 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000308 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000030c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  63
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000310 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000314 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000318 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000031c branch is 1 and offset is 000000c7
+Prediction is right for address 0000031c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000320 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000324 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000328 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000032c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  71
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000330 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000334 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000338 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000033c branch is 1 and offset is 000000cf
+Prediction is right for address 0000033c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000340 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000344 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000348 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000034c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  79
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000350 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000354 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000358 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000035c branch is 1 and offset is 000000d7
+Prediction is right for address 0000035c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000360 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000364 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000368 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000036c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  87
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000370 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000374 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000378 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000037c branch is 1 and offset is 000000df
+Prediction is right for address 0000037c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000380 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000384 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000388 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000038c branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is  95
+###################################
+
+############## CHECK PHASE START ###########
+For address 00000390 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000394 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000398 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000039c branch is 1 and offset is 000000e7
+Prediction is right for address 0000039c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003a0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003a4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003a8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003ac branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 103
+###################################
+
+############## CHECK PHASE START ###########
+For address 000003b0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003b4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003b8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003bc branch is 1 and offset is 000000ef
+Prediction is right for address 000003bc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003c0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003c4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003c8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003cc branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 111
+###################################
+
+############## CHECK PHASE START ###########
+For address 000003d0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003d4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003d8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003dc branch is 1 and offset is 000000f7
+Prediction is right for address 000003dc
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003e0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003e4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003e8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003ec branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 119
+###################################
+
+############## CHECK PHASE START ###########
+For address 000003f0 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003f4 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003f8 branch is 0 and offset is 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 000003fc branch is 1 and offset is 000000ff
+Prediction is right for address 000003fc
+############## CHECK PHASE END ###########
+
+##########UPDATING PHASE 3 ###########
+GHSR_PATTERN is 00000001
+BHT_ENTRY is 11 and add is 127
+###################################
+
