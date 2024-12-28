@@ -54,3 +54,14 @@
 
 * Four patterns are tested at a time. 'NNNT' , 'NNTN', 'NTNN', 'TNNN' one for each entry in PHT.
 
+## tools used
+
+### for verilog simulation and testing
+    > Icarus Verilog
+
+### Debug
+    > gtkwave
+    
+### Lint
+    > verilator
+
