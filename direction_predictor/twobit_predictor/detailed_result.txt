@@ -1,0 +1,48 @@
+************* FIRST ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=          4,branch_predict_true=          0, branch_mis-prediction=          4
+************* FIRST ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* SECOND ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=          8,branch_predict_true=          0, branch_mis-prediction=          8
+************* SECOND ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* THIRD ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         12,branch_predict_true=          4, branch_mis-prediction=          8
+************* THIRD ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* FOURTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         16,branch_predict_true=          8, branch_mis-prediction=          8
+************* FOURTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* FIFTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         16,branch_predict_true=          8, branch_mis-prediction=         12
+************* FIFTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* SIXTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         16,branch_predict_true=          8, branch_mis-prediction=         16
+************* SIXTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* SEVENTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         16,branch_predict_true=         12, branch_mis-prediction=         16
+************* SEVENTH ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* EIGHT ITERATION IN THE SEQUENCE TTTTNNNN *************
+branch_taken=         16,branch_predict_true=         16, branch_mis-prediction=         16
+************* EIGHT ITERATION IN THE SEQUENCE TTTTNNNN *************
+************* FIRST ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=          4,branch_predict_true=          0, branch_mis-prediction=          4
+************* FIRST ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* SECOND ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=          4,branch_predict_true=          4, branch_mis-prediction=          4
+************* SECOND ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* THIRD ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=          8,branch_predict_true=          4, branch_mis-prediction=          8
+************* THIRD ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* FOURTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=          8,branch_predict_true=          8, branch_mis-prediction=          8
+************* FOURTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* FIFTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=         12,branch_predict_true=          8, branch_mis-prediction=         12
+************* FIFTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* SIXTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=         12,branch_predict_true=         12, branch_mis-prediction=         12
+************* SIXTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* SEVENTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=         16,branch_predict_true=         12, branch_mis-prediction=         16
+************* SEVENTH ITERATION IN THE SEQUENCE TNTNTNTN *************
+************* EIGHT ITERATION IN THE SEQUENCE TNTNTNTN *************
+branch_taken=         16,branch_predict_true=         16, branch_mis-prediction=         16
+************* EIGHT ITERATION IN THE SEQUENCE TNTNTNTN *************
