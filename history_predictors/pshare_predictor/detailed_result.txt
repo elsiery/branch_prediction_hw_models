@@ -1,0 +1,2560 @@
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000000
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000000
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000001100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000000
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000001000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000000100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is NOT right for address 00000000000000000000000000001100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is NOT right for address 00000000000000000000000000001000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is NOT right for address 00000000000000000000000000000100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is NOT right for address 00000000000000000000000000001100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is NOT right for address 00000000000000000000000000001000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is NOT right for address 00000000000000000000000000000100
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is NOT right for address 00000000000000000000000000000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 1 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 1 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 0 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 1 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000000 branch is 1 and offset is 00000000
+Prediction is right for address 00000000
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000004 branch is 0 and offset is 00000001
+Prediction is right for address 00000004
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 00000008 branch is 0 and offset is 00000002
+Prediction is right for address 00000008
+############## CHECK PHASE END ###########
+
+############## CHECK PHASE START ###########
+For address 0000000c branch is 0 and offset is 00000003
+Prediction is right for address 0000000c
+############## CHECK PHASE END ###########
+
